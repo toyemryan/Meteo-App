@@ -15,7 +15,7 @@ class Process_Image_Main : AppCompatActivity() {
 
 
         processimage = findViewById(R.id.imageView)
-        processimage.alpha =0.5f
+        processimage.alpha =0.5f // determina la luminosità o opacità del splashcreen compreso tra 0 e 1
         processimage.animate().setDuration(5000).alpha(1f).withEndAction {
             val intent = Intent(this, MainActivity :: class.java)
             startActivity(intent)
