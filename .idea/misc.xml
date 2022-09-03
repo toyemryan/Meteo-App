@@ -3,10 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Toyem Ryan/AndroidStudioProjects/MeteoApp/app/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.3375" />
+        <entry key="..\:/Users/Toyem Ryan/AndroidStudioProjects/MeteoApp/app/src/main/res/drawable/ic_baseline_calendar_today_24.xml" value="0.3375" />
         <entry key="..\:/Users/Toyem Ryan/AndroidStudioProjects/MeteoApp/app/src/main/res/drawable/ic_baseline_calendar_view_week_24.xml" value="0.2985" />
+        <entry key="..\:/Users/Toyem Ryan/AndroidStudioProjects/MeteoApp/app/src/main/res/drawable/ic_logovector.xml" value="0.3375" />
         <entry key="..\:/Users/Toyem Ryan/AndroidStudioProjects/MeteoApp/app/src/main/res/layout/activity_main.xml" value="0.25842696629213485" />
         <entry key="..\:/Users/Toyem Ryan/AndroidStudioProjects/MeteoApp/app/src/main/res/layout/activity_process_image_main.xml" value="0.358695652173913" />
         <entry key="..\:/Users/Toyem Ryan/AndroidStudioProjects/MeteoApp/app/src/main/res/menu/menutoolbarnav.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Toyem Ryan/AndroidStudioProjects/MeteoApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.196" />
       </map>
     </option>
   </component>
